@@ -1,6 +1,6 @@
 {
-    "token" : "NzI1NTQwMTE0Mjg5MTMxNTY0.XvQN4w.X4uMmQQdJUcT6uPau57sSE1lMIU",
+    "token" : "", //Aqui va un token que se obtiene desde la api de discord
     "prefix" : ">",
-    "mongodb" : "mongodb+srv://Mat0wa:m1a8t0e4o2004@mat0wa.e3rei.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "ownerIDS": ["428745154393014273"]
+    "mongodb" : "", //Esta seria mi base de datos
+    "ownerIDS": [""]
 }
